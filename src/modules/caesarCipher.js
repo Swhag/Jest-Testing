@@ -16,6 +16,7 @@ function isUpperCase(char) {
   return false;
 }
 
+// shift alphabet order by offset input amount
 function shiftAlphabet(offset) {
   let a = alphabet.slice(0, offset);
   let b = alphabet.slice(offset, 25);

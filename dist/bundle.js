@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("// import * as caesarCipher from './modules/caesarCipher';\n\n// console.log(caesarCipher.isLowerCase('A'));\n// console.log(caesarCipher.singleLowerCipher('a'));\n// console.log(caesarCipher.caesarCipher('testing the water', 1));\n\n//# sourceURL=webpack://project-page/./src/index.js?");
+eval("// import * as caesarCipher from './modules/caesarCipher';\n\n// console.log(caesarCipher.isLowerCase('A'));\n// console.log(caesarCipher.singleLowerCipher('a'));\n// console.log(caesarCipher.caesarCipher('testing the water', 1));\n\n// console.log(analyzeArray([1, 8, 3, 4, 2, 6]));\n// console.log(object);\n\n//# sourceURL=webpack://project-page/./src/index.js?");
 
 /***/ })
 
